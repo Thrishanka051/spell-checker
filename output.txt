@@ -1,0 +1,9 @@
+The total number of words: 1
+The number of words spelt correctly: 0
+The number of incorrectly spelt words: 1
+The number of words added to the dictionary: 0
+The number of words changed by user accepting the suggested word: 0
+The date and time the input was spellchecked: 2020-11-06 04:16:51
+The amount of time elapsed to spellcheck the input: 2.437751293182373
+
+dsdsfsfd 
